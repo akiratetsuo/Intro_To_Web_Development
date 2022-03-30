@@ -11,5 +11,13 @@
   - emphasis or italized 
 ``` html
 technically <em>Hello! </em> is an <strong> element </strong>, while <em> and </em> are <strong> tags </strong>
-``` And developers use element and tag interchangeably. 
+``` 
+- And developers use element and tag interchangeably. 
 
+## 12. BREAKS AND EMPTY ELEMENTS 
+- whitespace - spaces, tabes, and line breaks
+- break tag is self closing, since it does not have any content 
+  - void element OR empty element 
+
+## 13. PARAGRAPHS 
+- 
